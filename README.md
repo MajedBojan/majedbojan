@@ -1,11 +1,5 @@
-### Hi there 👋 I'm MaJeD BoJaN software engneer
-
-I am software engneer 
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-Rails-E34F26?style=flat-square&logo=rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)

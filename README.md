@@ -1,11 +1,13 @@
-### Hi there 👋 I'm MaJeD BoJaN
+### Hi there 👋 I'm MaJeD BoJaN software engneer
 
 I am software engneer 
 
-![Mode](./assests/mood.gif)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+![HTML5](https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/-Rails-E34F26?style=flat-square&logo=rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,14 +25,3 @@ I am software engneer
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-</p>
-<br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dephraiim" alt="dephraiim" /> </p>
-<p align="center">
-<a href="https://twitter.com/dephraiim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/dephraiim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/dephraiim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://instagram.com/dephraiim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
-</p>
-

@@ -1,7 +1,8 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-![HTML5](https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/-Rails-E34F26?style=flat-square&logo=rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-E34F26?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/-Rails-E34F26?style=flat-square&logo=rails&logoColor=white)
+![Roda](https://img.shields.io/badge/-Roda-E34F26?style=flat-square&logo=roda&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

@@ -1,4 +1,4 @@
-### Hi there 👋 I'm MaJeD BoJaN
+### Hi there 👋 It's me MaJeD BoJaN
 
 I am software engneer 
 

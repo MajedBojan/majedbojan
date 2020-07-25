@@ -3,7 +3,7 @@
 
   ![Ruby](https://img.shields.io/badge/-Ruby-b80000?style=flat-square&logo=ruby&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-b80000?style=flat-square&logo=rubyonrails&logoColor=white)
-  ![RODA](https://img.shields.io/badge/-RODA-b80000?style=flat-square&logo=ruby&logoColor=white)
+  ![Roda](https://img.shields.io/badge/-RODA-b80000?style=flat-square&logo=ruby&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-452475?style=flat-square&logo=gatsby)
